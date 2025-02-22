@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Discord bots! 😀</h1>
+<h1 align="center">Welcome to my Discord bots!</h1>
 
 
 <p align="left">  Introducing my Discord bots, crafted to enhance your server experience effortlessly. Create a bot on the Discord Developer Portal, generate a token, and securely store it in a .env file. With a simple setup, these bots are ready to streamline tasks, entertain users, and foster community engagement. From moderation tools to fun minigames, my bots offer diverse features to cater to your server's needs. Elevate your Discord server today with my versatile companions!</p>
